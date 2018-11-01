@@ -16,8 +16,7 @@ React Native ile ilgi sorunları çözmek ve tartışmaları başlatmak için ol
 
 <a href="https://github.com/burhanyilmaz/react-native-articles">
 <image src="https://raw.githubusercontent.com/burhanyilmaz/react-native-articles/master/resources/images/logo.png" width="410" height="90">
-</a>
-
+</a><br>
 <a href="https://github.com/burhanyilmaz/Greener">
 <image src="https://raw.githubusercontent.com/burhanyilmaz/Greener/master/resource/images/logo.png">
 </a>
