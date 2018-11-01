@@ -10,6 +10,12 @@ React Native ile ilgi sorunları çözmek ve tartışmaları başlatmak için ol
 
 ### Labels
 <image src="./resources/images/tartisma.png" width="138" height="42">
-<br>
-<br>
 <image src="./resources/images/yardim-istegi.png" width="138" height="42">
+
+### Belki ilginizi çekebilir.
+
+<a href="https://github.com/burhanyilmaz/react-native-articles">
+<image src="https://raw.githubusercontent.com/burhanyilmaz/react-native-articles/master/resources/images/logo.png" width="205" height="45">
+</a>
+
+![](https://raw.githubusercontent.com/burhanyilmaz/Greener/master/resource/images/logo.png)
